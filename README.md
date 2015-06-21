@@ -1,6 +1,7 @@
 # README.md
 
-To transform raw data into tidy data:
+To transform Project raw data into tidy data, do the following steps:
+(Project raw data files need to be placed inside your working folder, under a sub-folder named "UCI HAR Dataset")
 
 * (01) Load the testing data (Data, Subject & Activity) from your working directory
 * (02) Load the training data (Data, Subject & Activity) from your working directory
